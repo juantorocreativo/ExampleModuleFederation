@@ -21,6 +21,7 @@ Crearemos **dos aplicaciones remotas completas**:
 
 1. **📊 Remote App 1**: Dashboard de métricas empresariales
 2. **👥 Remote App 2**: Sistema de gestión de usuarios
+3. **👥 Remote App 3**: Sistema de Carga Datos Operativos ( ODS )  
 
 Cada una será una aplicación React independiente que puede ejecutarse por separado y ser consumida por el Host App.
 
